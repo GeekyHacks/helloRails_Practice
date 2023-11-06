@@ -74,7 +74,6 @@ To get a local copy up and running, follow these steps:
 - Navigate to the desired directory[folder] to which you want to clone the repository to
 - git clone you find in the code button https://github.com/GeekyHacks/hellorails_practice.git
 - Run `blunder i` to install the gemfiles to your end
-- To run the app `ruby main.rb` you will see the user interface
 
 ### Prerequisites
 
@@ -109,7 +108,6 @@ To install all dependencies run the following command:
 
 - `gem install` will install all the gem files included in this repo
 - if you have the gem bundler installed type in `bundler i`
-- to run the program `ruby main.rb`
 
 suggusted VSC extentions:
 
